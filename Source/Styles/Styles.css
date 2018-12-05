@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+    font-family: Calibri,Arial;
+    background: #111;
+}
+
+
+
+/* ================ Common global styles ================ */
+.foreground-light
+{
+    color: #fff;
+}
+
+.foreground-dark
+{
+    color: #111;
+}
+
+.text-centered
+{
+    text-align: center;
+}
+
+.padding-small
+{
+    padding: 20px;
+}
+
+.padding-medium
+{
+    padding: 40px;
+}
+
+.padding-large
+{
+    padding: 60px;
+}
+
+.float-left
+{
+    float: left;
+}
+
+.float-right
+{
+    float: right;
+}
